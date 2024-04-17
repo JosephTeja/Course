@@ -1,4 +1,4 @@
-# Project Name
+# Boom Bikes Rental Predictions
 Creating a Linear regression Model on Boom Bike Rentals as part of Upgrad course assignments
 
 
